@@ -2,6 +2,9 @@ body {
   font-family: 'Merriweather', serif;
   font-size: 16px;
   line-height: 1;
+  background-image: url("./assets/images/paperbackground.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 textarea {
@@ -16,7 +19,8 @@ textarea {
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  color: black;
+  background-image: url("./assets/images/paperbackground.jpg");
+  color: rgb(95, 72, 72);
   border-radius: 0;
   border-bottom: 10px solid black;
 }
@@ -32,11 +36,11 @@ textarea {
 
 .row {
   height: 80px;
-  border-top: 1px solid white;
+  border: 2px solid rgb(95, 72, 72);
 }
 
 .hour {
-  color: #000000;
+  color: rgb(95, 72, 72);
   text-align: center;
   margin: 20x 20px;
   padding: 30px 20px 0px 10px;
