@@ -1,0 +1,24 @@
+{
+  "name": "homework5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliaswolfgang/Work-Day-Planner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliaswolfgang/Work-Day-Planner/issues"
+  },
+  "homepage": "https://github.com/eliaswolfgang/Work-Day-Planner#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
