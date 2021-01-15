@@ -2,7 +2,7 @@ body {
   font-family: 'Merriweather', serif;
   font-size: 16px;
   line-height: 1;
-  background-image: url("./assets/images/paperbackground.jpg");
+  background-image: url("./images/paperbackground.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
@@ -19,7 +19,7 @@ textarea {
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  background-image: url("./assets/images/paperbackground.jpg");
+  background-image: url("./images/paperbackground.jpg");
   color: rgb(99, 14, 14);
   border-radius: 0;
   border-bottom: 10px solid black;
