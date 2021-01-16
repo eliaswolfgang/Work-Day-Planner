@@ -16,8 +16,8 @@ GRAY - for past hours.
 This application was developed using Google style standards, returning 0 errors when tested using ESLint. The application returns 0 errors in the console, and successfully stores user inputs in local storage.
 
 ## Screenshots
-<img src="./assets/images/screenshot1 />
-<img src="./assets/images/screenshot2 />
+<img src="./assets/images/screenshot1.png />
+<img src="./assets/images/screenshot2.png />
 
 ## Deployed Application
 This application is hosted on GitHub pages and deployed at https://eliaswolfgang.github.io/Work-Day-Planner/.
